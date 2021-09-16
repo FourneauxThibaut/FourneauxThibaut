@@ -94,10 +94,6 @@ The motto of my life is to be determined towards the software world and its deve
     </a>
 </p>
 
-<p align="center">
-    <img width="auto" height="auto" src="https://visitor-badge.glitch.me/badge?page_id=fourneauxthibaut.visitor-badge&left_color=grey&right_color=orange" alt="GitHub's views"/> 
-</p>
-
 
 <hr style="background-color: darkgray; margin: 50px 0"></hr>
 
