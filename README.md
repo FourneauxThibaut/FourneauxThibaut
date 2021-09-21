@@ -1,4 +1,4 @@
-<h1 style="margin-left: 5%">About myself</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=F7F7F7&size=34&vCenter=true&lines=About++myself)](https://git.io/typing-svg)
 
 A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
 
@@ -8,7 +8,7 @@ The motto of my life is to be determined towards the software world and its deve
 <hr style="background-color: darkgray; margin: 50px 0"></hr>
 
 
-<h1 style="margin-left: 5%">How do i work</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=F7F7F7&size=34&vCenter=true&lines=How+do+i+work)](https://git.io/typing-svg)
 
 <h2 style="margin-left: 5%">Frontend</h1>
 <p align="center">
@@ -80,7 +80,16 @@ The motto of my life is to be determined towards the software world and its deve
 <hr style="background-color: darkgray; margin: 50px 0"></hr>
 
 
-<h1 style="margin-left: 5%">Social links</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=F7F7F7&size=34&vCenter=true&lines=Status)](https://git.io/typing-svg)
+
+<p align="center">
+    <img width="90%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=fourneauxthibaut&theme=blueberry_duo&hide_border=true&fire=fff&background=22272E&stroke=fff&ring=FF6C0F&sideNums=FF6C0F&currStreakLabel=BB4F0B&currStreakNum=fff&sideLabels=BB4F0B&dates=fff" alt="GitHub Streak"/> 
+</p>
+
+<p align="center">
+    <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fourneauxthibaut&layout=compact&theme=gruvbox&bg_color=22272E&s&text_color=fff&title_color=FF6C0F&hide_border=true" alt="Thibaut's GitHub stats"/> 
+    <img width="47.5%" height="auto" src="https://github-readme-stats.vercel.app/api?username=fourneauxthibaut&theme=gruvbox&bg_color=22272E&s&text_color=fff&title_color=FF6C0F&hide_border=true" alt="Thibaut's GitHub stats"/>
+</p>
 
 <p align="center">
     <a href="mailto:fourneaux.thibaut@gmail.com">
@@ -93,21 +102,4 @@ The motto of my life is to be determined towards the software world and its deve
         <img width="auto" height="auto" src="https://img.shields.io/static/v1?label=MtKuma | 4345&message=%20&color=orange&logo=Discord&style=flat&logoColor=white" alt="GitHub's views"/> 
     </a>
 </p>
-
-
-<hr style="background-color: darkgray; margin: 50px 0"></hr>
-
-
-<h1 style="margin-left: 5%">Status</h1>
-
-<p align="center">
-    <img width="90%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=fourneauxthibaut&theme=blueberry_duo&hide_border=true&fire=fff&background=22272E&stroke=fff&ring=FF6C0F&sideNums=FF6C0F&currStreakLabel=BB4F0B&currStreakNum=fff&sideLabels=BB4F0B&dates=fff" alt="GitHub Streak"/> 
-</p>
-
-<p align="center">
-    <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fourneauxthibaut&layout=compact&theme=gruvbox&bg_color=22272E&s&text_color=fff&title_color=FF6C0F&hide_border=true" alt="Thibaut's GitHub stats"/> 
-    <img width="47.5%" height="auto" src="https://github-readme-stats.vercel.app/api?username=fourneauxthibaut&theme=gruvbox&bg_color=22272E&s&text_color=fff&title_color=FF6C0F&hide_border=true" alt="Thibaut's GitHub stats"/>
-</p>
-
-
 
