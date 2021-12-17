@@ -4,9 +4,12 @@
    /)__)      │            └─ my website ────────────┤
 ────"──"─     └─ my email ───────────────────────────┘
 ```
+![Backend developer](./images/backend-developer.svg) ![Ide vscode](./images/ide-vscode.svg) 
+
+![Novel, Pixel art](./images/novel-pixel-art.svg) ![Roleplay, Gaming](./images/roleplay-gaming.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=F7F7F7&size=34&vCenter=true&lines=About++myself)](https://git.io/typing-svg)
 
-A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
+I am a junior backend developer trainee who likes to invest in various 
 
-The motto of my life is to be determined towards the software world and its development for the betterment in the standard of living of the society.
+projects and continue to learn continuously
